@@ -64,6 +64,8 @@ The Loan API evaluates the following criteria when determining loan eligibility:
 
  - Java
  - Spring Boot
+ - JUnit 5
+ - Mockito
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve the Loan API.
